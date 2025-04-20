@@ -1,10 +1,10 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
+    introTitle: 'Em bé à!',
+    introDesc: `Người yêu ơi em có biết
+    Anh nhớ em nhiều lắm
+    Mà sao anh cứ hư
+    Làm em bé anh buồn`,
+    btnIntro: 'huhu :<',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <33',
